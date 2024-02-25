@@ -400,9 +400,14 @@ FodyWeavers.xsd
 node_modules
 out
 build
-node_modules/
+.idea
+cmake-build-debug
 out/
 build/
+.idea/
+cmake-build-debug/
 node_modules/*
 out/*
 build/*
+.idea/*
+cmake-build-debug/*
