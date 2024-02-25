@@ -1,0 +1,9 @@
+# ninja log v5
+9	591	7305232512794501	node_modules/fmt/CMakeFiles/fmt.dir/src/os.cc.obj	f06953330bbdfc1d
+2	754	7305232514404537	CMakeFiles/cNPM.dir/cNPM.cpp.obj	2e4c601d68a684ae
+6	800	7305232514862762	node_modules/fmt/CMakeFiles/fmt.dir/src/format.cc.obj	ea4b3583dca9b807
+800	869	7305232515552273	node_modules/fmt/fmtd.lib	f0b2fac38437a3bb
+759	937	7305232898451213	cNPM.exe	4adb0af0b5a449f
+2	759	7305232897013669	CMakeFiles/cNPM.dir/main.cpp.obj	9836dfad33b1383e
+2	1008	7305239262500409	CMakeFiles/cNPM.dir/main.cpp.obj	9836dfad33b1383e
+1009	1167	7305239263744043	cNPM.exe	4adb0af0b5a449f
