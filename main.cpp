@@ -1,7 +1,7 @@
 ﻿// cNPM.cpp : Defines the entry point for the application.
 //
 
-#include "main.h"\
+#include "main.h"
 
 int main()
 {
